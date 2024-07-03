@@ -1,0 +1,17 @@
+cvxpy == 2.0
+h5py==3.10.0
+lightning 2.0.9
+matplotlib == 3.8.0
+Mosek==10.1.28
+mystic==0.4.2
+numpy == 1.26.4
+pandas == 2.2.1
+Pyomo==6.7.1
+pyro-api==0.1.2
+pyro-ppl==1.9.0
+pytorch-lightning == 2.0.3
+scikit-learn==1.4.1
+scipy == 1.12.0
+seaborn == 0.12.2
+setuptools==69.5.1
+torch==2.3.0
